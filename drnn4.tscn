@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://bv742u3ge8vvl"]
+
+[ext_resource type="PackedScene" uid="uid://thnpto34sr1" path="res://drnn4.blend" id="1_ekpqj"]
+
+[node name="drnn4" instance=ExtResource("1_ekpqj")]
